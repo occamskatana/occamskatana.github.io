@@ -16,3 +16,17 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+.center {
+	text-align: center;
+}
+
+img[alt=pic1] {
+	width: 400px;
+	text-align: center
+}
+
+img[alt=pic2] {
+	height: 300px;
+	text-align: center
+}

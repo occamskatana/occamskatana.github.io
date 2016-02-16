@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 feature-img: "img/profile.png"
 ---
+{: .center}
+![Geometric pattern with fading gradient center]({{ site.baseurl }}/img/profile.png)
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Welcome to my page. I am a racecar driver turned web developer. I have worked in the Technology industry since 2007, when I started and operated a company that provided IT servies to small to medium size businesses. I have experience with Ruby, Rails, AngularJS, and Ionic. 
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+![pic1]({{ site.baseurl }}/img/racing.jpg)     ![pic2]({{ site.baseurl }}/img/podium.jpg)
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+In keeping with my personal philosophy of using technology to help people and make the world a better place, I currently work for Spera, a healthcare company based in Tennessee. I am currently helping them develop their MVP to demo to investors using Ionic, AngularJS, and a Rails backend. 
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
-
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+I look forward to an exciting career in Web Development. 
