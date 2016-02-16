@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
-url: "http://www.domain.com" # the base hostname & protocol for your site
+baseurl: "/occamskatana.github.io" # the subpath of your site, e.g. /blog/
+url: "http://occamskatana.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -18,7 +18,7 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: johngallweycarter@gmail.com
   behance:
   bitbucket:
   dribbble: 
@@ -27,7 +27,7 @@ theme:
   github: occamskatana # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram: 
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/john-carter-15230245?trk=nav_responsive_tab_profile_pic
   pinterest:
   reddit:
   soundcloud:
