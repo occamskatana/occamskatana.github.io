@@ -1,13 +1,13 @@
 ---
 layout: post
 title: OpenTodo
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/hax.png"
 short-description: OpenTodo is a platform on which To-Do Lists can be built.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/hax.png)
 
 ## Explanation
 
