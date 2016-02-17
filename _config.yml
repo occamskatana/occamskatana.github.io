@@ -13,8 +13,8 @@ theme:
      <h1>The Next Big Thing</h1>
      <p>I'm a full stack web developer specializing in Rails, JS, Angular.</p>
   header_text_feature_image: 
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+  footer_text: "John Carter 2016"
+  
 
   # Icons
   rss: false
