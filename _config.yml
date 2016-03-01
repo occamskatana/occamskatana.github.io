@@ -6,12 +6,13 @@ url: "occamskatana.github.io" # the base hostname & protocol for your site
 theme:
   # Meta
   title: John Carter # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "John Carter Web Developer" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>The Next Big Thing</h1>
-     <p>I'm a full stack web developer specializing in Rails, JS, Angular.</p>
+     <h1>Rebel With a Cause</h1>
+     <p>I'm a full stack web developer specializing in Rails, JS, Angular. <br>
+        I currently work at Spera Healthcare in Nashville, Tennessee.</p>
   header_text_feature_image: 
   footer_text: "John Carter 2016"
   
